@@ -249,9 +249,9 @@ public class EFT_S09 {
         //MENU PRINCIPAL - OPCION DESCUENTOS
         case 1:
           System.out.println("\n ++++++++++++++++  DESCUENTOS  +++++++++++++++");
-          System.out.println("5% Descuento estudiantes");
-          System.out.println("10% Descuento Tercera Edad");
           System.out.println("15% Descuento Club Teatro Moro");
+          System.out.println("10% Descuento Tercera Edad");
+          System.out.println("5% Descuento estudiantes");
           System.out.println("* Los descuentos se aplicarán al momento de elegir la ubicación. Estos no son acumulables *");
           break;
 
