@@ -601,6 +601,7 @@ public class EFT_S09 {
             listaEleccionUbicacion.remove(indiceEliminarEntrada - 1);
             listaEleccionPrecio.remove(indiceEliminarEntrada - 1);
             listaEleccionValorDescuento.remove(indiceEliminarEntrada -1 );
+            listaEleccionTipoDescuento.remove(indiceEliminarEntrada -1 );
 
             //Aumentar el número de entradas disponibles para esa sección a la lista que corresponda.
             switch (listaEleccionSeccion.get(indiceEliminarEntrada - 1)){
